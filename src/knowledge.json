@@ -1,0 +1,64 @@
+{
+  "knowledge": {
+      "inflasi": {
+          "rendah": [0, 0, 4],
+          "sedang": [3, 5, 7],
+          "tinggi": [6, 10, 15]
+      },
+      "pengangguran": {
+          "rendah": [0, 0, 5],
+          "sedang": [4, 10, 15],
+          "tinggi": [14, 20, 25]
+      },
+      "pertumbuhan_ekonomi": {
+          "negatif": [-5, -3, 0],
+          "stabil": [-1, 2, 5],
+          "positif": [4, 7, 10]
+      },
+      "defisit_anggaran": {
+          "rendah": [0, 0, 3],
+          "sedang": [2, 5, 8],
+          "tinggi": [7, 10, 15]
+      },
+      "investasi_asing": {
+          "rendah": [0, 0, 5],
+          "sedang": [3, 7, 10],
+          "tinggi": [8, 15, 20]
+      },
+      "kepuasan_konsumen": {
+          "rendah": [0, 0, 40],
+          "sedang": [30, 60, 80],
+          "tinggi": [70, 90, 100]
+      },
+      "stabilitas_harga": {
+          "stabil": [0, 0, 5],
+          "fluktuatif": [3, 7, 12],
+          "tidak_stabil": [8, 15, 20]
+      },
+      "ipm": {
+          "rendah": [0, 0, 0.5],
+          "sedang": [0.4, 0.6, 0.8],
+          "tinggi": [0.7, 0.9, 1.0]
+      },
+      "ekspor": {
+          "rendah": [0, 0, 50],
+          "sedang": [40, 70, 100],
+          "tinggi": [90, 120, 150]
+      },
+      "impor": {
+          "rendah": [0, 0, 50],
+          "sedang": [40, 70, 100],
+          "tinggi": [90, 120, 150]
+      },
+      "nilai_tukar": {
+          "lemah": [0, 0, 5000],
+          "stabil": [4000, 7000, 10000],
+          "kuat": [9000, 12000, 15000]
+      },
+      "cadangan_devisa": {
+          "rendah": [0, 0, 50],
+          "sedang": [40, 70, 100],
+          "tinggi": [90, 120, 150]
+      }
+  }
+}
